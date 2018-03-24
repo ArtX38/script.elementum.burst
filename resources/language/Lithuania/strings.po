@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-05 05:53-0400\n"
 "PO-Revision-Date: 2017-11-30 10:38-0500\n"
-"Last-Translator: Commandos\n"
+"Last-Translator: Arturas Griskonis <ArtX38@gmail.com>\n"
 "Language-Team: \n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +24,11 @@ msgstr "Bendra"
 
 msgctxt "#32001"
 msgid "Providers"
-msgstr "Šaltiniai"
+msgstr "Teikėjai"
 
 msgctxt "#32002"
 msgid "Resolutions"
-msgstr "Kokybė"
+msgstr "Rezoliucija"
 
 msgctxt "#32003"
 msgid "Release types"
@@ -36,7 +36,7 @@ msgstr "Tipai"
 
 msgctxt "#32004"
 msgid "Advanced"
-msgstr "Papildomai"
+msgstr "Sudėtingesnis"
 
 msgctxt "#32006"
 msgid "Movies"
@@ -44,7 +44,7 @@ msgstr "Filmai"
 
 msgctxt "#32007"
 msgid "TV Shows"
-msgstr "Serijalai"
+msgstr "TV laidos"
 
 msgctxt "#32008"
 msgid "Seasons"
@@ -56,11 +56,11 @@ msgstr "Epizodai"
 
 msgctxt "#32012"
 msgid "Public trackers"
-msgstr "Trakeriai laisvi"
+msgstr "Viešos programos"
 
 msgctxt "#32014"
 msgid "Private trackers"
-msgstr "Uždari trakeriai"
+msgstr "Privačios programos"
 
 msgctxt "#32015"
 msgid "Username"
@@ -72,11 +72,11 @@ msgstr "Slaptažodis"
 
 msgctxt "#32017"
 msgid "Require"
-msgstr "Būtini"
+msgstr "Būtini(-a)"
 
 msgctxt "#32018"
 msgid "Use language preference from Kodi when a translation is available"
-msgstr "Naudoti Kodi kalba pasirinkitinai, kai yra vertimas"
+msgstr "Naudoti Kodi kalbą pasirinkitinai, kai yra vertimas"
 
 msgctxt "#32033"
 msgid "Minimum size (GB)"
@@ -96,7 +96,7 @@ msgstr "Papildomi raktinių žodžių filtrai (atskirti kableliais)"
 
 msgctxt "#32037"
 msgid "Use underscores around keywords to require a space/dot, eg. _HEVC_"
-msgstr "Naudokite raktinių žodžių raides, kad būtų reikalingas tarpas / taškas, pvz. _HEVC"
+msgstr "Naudokite raktinių žodžių raides, kad būtų tarpas/taškas, pvz. _HEVC_"
 
 msgctxt "#32038"
 msgid "Accept"
@@ -104,7 +104,7 @@ msgstr "Patvirtinti"
 
 msgctxt "#32039"
 msgid "Block"
-msgstr "Užblokuoti"
+msgstr "Blokuoti"
 
 msgctxt "#32040"
 msgid "Maximum results per provider"
@@ -120,11 +120,11 @@ msgstr "Išimtys"
 
 msgctxt "#32051"
 msgid "Comma-separated list of providers to exclude, eg. yts, rarbg"
-msgstr "Sąrašas paslaugų teikėjų, kad būtų išvengta, per kablelį, pvz. yts, rarbg"
+msgstr "Atskirti kableliais paslaugų teikėjams neįtraukti, pvz. yts, rarbg"
 
 msgctxt "#32060"
 msgid "No providers enabled"
-msgstr "Neįtraukti šaltiniai"
+msgstr "Teikėjas neįjungtas"
 
 msgctxt "#32061"
 msgid "Starting..."
@@ -132,19 +132,19 @@ msgstr "Paleisti.."
 
 msgctxt "#32062"
 msgid "%d providers left"
-msgstr "Šaltinių liko: %d"
+msgstr "Teikėjų liko: %d"
 
 msgctxt "#32063"
 msgid "1 provider left"
-msgstr "Šaltinių liko: 1"
+msgstr "Teikėjų liko: 1"
 
 msgctxt "#32064"
 msgid " timed out"
-msgstr " lėtai dirba"
+msgstr " laikas baigėsi"
 
 msgctxt "#32070"
 msgid "Search timeout (seconds)"
-msgstr "Тайм-аут для поиска (секунд)"
+msgstr "Paiška laiku (sekundėmis)"
 
 msgctxt "#32071"
 msgid "Timeout setting must be lower than Quasar's"
@@ -152,8 +152,8 @@ msgstr "Laiko nustatymas turi būti mažesnis nei Quasar"
 
 msgctxt "#32075"
 msgid "No torrents found"
-msgstr "Nerasta nei vieno torrento"
+msgstr "Torrento nerasta"
 
 #~ msgctxt "#32040"
 #~ msgid "Maximum torrents"
-#~ msgstr "Maksimumas torrentų"
+#~ msgstr "Daugiausia torrentų"
